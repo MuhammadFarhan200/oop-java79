@@ -1,3 +1,10 @@
+/*
+ * MainApp.java
+ * 
+ * Created by : Farhan Nasrulloh
+ * Created on 28/09/21, 20.00.00
+ */
+
 package PengenalanOOP;
 
 public class MainApp {
