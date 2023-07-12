@@ -23,5 +23,7 @@ public class MainApp {
     person3.address = "Bandung";
     person3.sayHello("Padepokan 79");
     System.out.println(person3.sayAddress());
+
+    System.out.println(person1.name);
   }
 }
