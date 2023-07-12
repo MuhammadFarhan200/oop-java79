@@ -22,9 +22,5 @@ public class MainApp {
     Person person3 = new Person("Budi");
     person3.address = "Bandung";
     person3.sayHello("Padepokan 79");
-    System.out.println(person3.sayAddress());
-
-    Person person4 = new Person("Rudi", "Jakarta");
-    person4.sayHello("Padepokan 79");
   }
 }
